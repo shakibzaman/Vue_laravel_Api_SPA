@@ -46,4 +46,4 @@ php artisan migrate
 npm run watch
 ```
 
-Good Luck :)
+Thank you
