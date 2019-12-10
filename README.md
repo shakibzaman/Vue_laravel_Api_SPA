@@ -1,9 +1,3 @@
-
-
-
-This project is made for my Practise "Create a SPA with Vue.JS 2, Vue-Router, Vuex and Laravel 5.6".
-
-
 ## get it up and running.
 
 After you clone this project, do the following:
